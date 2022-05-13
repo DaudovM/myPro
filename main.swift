@@ -28,3 +28,4 @@ case 2...10:
     print("fff")
 default: break
 }
+print(333)
